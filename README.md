@@ -1,6 +1,9 @@
 # PhotoView
 An application to put up some photos on the desktop.
 
+.exe file is in pro*.zip 
+.exe文件在pro*.zip中，解压后可直接运行
+
 1.  
 Dragging the middle can adjust the window position.  
 Press ESC to close the specified single image.  
