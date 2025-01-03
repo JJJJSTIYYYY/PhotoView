@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>pic.png</file>
+        <file>favicon.ico</file>
+        <file>lock.png</file>
+        <file>shezhi.png</file>
+        <file>返回.png</file>
+        <file>剪切.png</file>
+        <file>截图.png</file>
+        <file>取消顶置.png</file>
+        <file>打开.png</file>
+        <file>顶置.png</file>
+        <file>关闭图片窗口.png</file>
+        <file>空心圆.png</file>
+        <file>关闭.png</file>
+        <file>AI.png</file>
+        <file>arrow-left-bold.png</file>
+        <file>arrow-right-bold.png</file>
+        <file>cancel.png</file>
+        <file>confirm.png</file>
+    </qresource>
+</RCC>
