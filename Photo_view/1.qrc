@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>AI.png</file>
+        <file>arrow-left-bold.png</file>
+        <file>arrow-right-bold.png</file>
+        <file>cancel.png</file>
+        <file>confirm.png</file>
+        <file>favicon.ico</file>
+        <file>lock.png</file>
+        <file>pic.png</file>
+        <file>setting.png</file>
+        <file>open.png</file>
+        <file>top.png</file>
+        <file>icon_circle.png</file>
+        <file>cancel_top.png</file>
+        <file>close_all.png</file>
+        <file>screen_shot.png</file>
+        <file>paste.png</file>
+        <file>return.png</file>
+        <file>exit.png</file>
+        <file>ding_red.png</file>
+        <file>ding_gray.png</file>
+        <file>moon.png</file>
+        <file>sun.png1</file>
+        <file>sun.png</file>
+        <file>sort.png</file>
+        <file>relate.png</file>
+    </qresource>
+</RCC>
